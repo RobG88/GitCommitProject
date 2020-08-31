@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4210309262688926393}
   - component: {fileID: 1707497264012253238}
   - component: {fileID: 5687242520641668710}
+  - component: {fileID: 2940141319774501111}
   m_Layer: 0
   m_Name: CapsuleSoldier
   m_TagString: Untagged
@@ -96,3 +97,16 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2940141319774501111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8280701374048406910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6639497fbb8b65747807c3e9061da3c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _originalColor: {r: 0, g: 0, b: 0, a: 0}
